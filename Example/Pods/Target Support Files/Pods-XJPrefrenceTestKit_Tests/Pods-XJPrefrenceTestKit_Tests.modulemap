@@ -1,0 +1,6 @@
+framework module Pods_XJPrefrenceTestKit_Tests {
+  umbrella header "Pods-XJPrefrenceTestKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

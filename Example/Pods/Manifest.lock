@@ -1,0 +1,16 @@
+PODS:
+  - XJPrefrenceTestKit (0.1.0)
+
+DEPENDENCIES:
+  - XJPrefrenceTestKit (from `../`)
+
+EXTERNAL SOURCES:
+  XJPrefrenceTestKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XJPrefrenceTestKit: 99b0ccf4debc7d88d887c65b6aa4184ddd2a44f2
+
+PODFILE CHECKSUM: a02f0c8dd3f8451c6594ed0abec027b41fe85f40
+
+COCOAPODS: 1.7.0.beta.1
